@@ -8,5 +8,3 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have an american pocket bully puppy and his name is Iroh!
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayardozelaya)](https://github.com/bayardozelaya/github-readme-stats)
